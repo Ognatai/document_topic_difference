@@ -1,4 +1,4 @@
 # document_topic_difference
 
-In this project I tried to develop approaches for finding differences between two text documets.
-The underlying approach is to remove everything that is similar to obtain the differences.
+This project was my bachelor's thesis.  
+I developed approaches for finding topical differnces between two text documents. The underlying approach is to end up with the ifferences by removing everything that is similar.
